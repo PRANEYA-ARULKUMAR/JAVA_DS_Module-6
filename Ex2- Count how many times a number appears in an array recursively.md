@@ -1,7 +1,5 @@
 # Ex2 Count how many times a number appears in an array recursively.
 
-## DATE : 10.11.2025  
-
 ### Developed by
 **Name:** A PRANEYA
 
