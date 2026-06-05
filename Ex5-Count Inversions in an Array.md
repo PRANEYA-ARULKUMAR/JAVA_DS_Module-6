@@ -1,6 +1,5 @@
 # Ex5 Count Inversions in an Array
 
-## DATE:10.11.2025
 
 ### Developed by
 **Name:** A PRANEYA
